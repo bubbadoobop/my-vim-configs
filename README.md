@@ -1,5 +1,5 @@
 # My Vim Configs
-The configurations and files I use for my vim setup. But, I will keep this public in case anyone wants to use them. If you don't mind, I'll give you a quick synopsis of each thing I use.
+The configurations and files I use for my vim (actually GVim) setup. But, I will keep this public in case anyone wants to use them. If you don't mind, I'll give you a quick synopsis of each thing I use.
 
 * **.vimrc:** My vim config file. Setup specifically for use with LaTeX and Python. Including shortcuts for things I use often.
 * **Syntax:** It comes with syntax for Python and I have a LaTeX setup in `vim-live-latex-preview`.
