@@ -2,6 +2,12 @@
 "rename it '.vimrc'. 
 "     ~Ian
 
+"Also, the macros I use (that I'm just letting you know exist are)
+
+" @l -- :w :!pdflatex % (LaTeX Compilation)
+" @M -- :w :!markdown-pdf % (Markdown to PDF compilation)
+
+
 "------------------
 "Personalization & Theme Changes
 "------------------
